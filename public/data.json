@@ -1,0 +1,151 @@
+{
+  "home": [
+    {
+      "img": "https://media.istockphoto.com/illustrations/aurora-borealis-over-man-holding-umbrella-lights-illustration-id487730174?k=20&m=487730174&s=612x612&w=0&h=IHaKXRBcPsO2zUqKOn5gnJlHz7TA-IAUeKVQS4PadTc=",
+      "course": "Canvas Painting",
+      "description": "Canvas is the mainstream of painting. Try to learn it by heart.",
+      "cost": 7500
+    },
+
+    {
+      "img": "https://media.istockphoto.com/illustrations/autumn-landscape-with-alone-tree-on-mountain-illustration-id487730182?k=20&m=487730182&s=612x612&w=0&h=dFNsr91iUxTiOYlv_-F2mXTnJ3eodcYmUd1ZLeTOzrk=",
+      "course": "Poster Color",
+      "description": "You will be Surprised how poster color can be so realistic !",
+      "cost": 1000
+    },
+    {
+      "img": "https://media.istockphoto.com/illustrations/couple-sit-and-relax-in-the-tent-at-night-forest-illustration-id695357294?k=20&m=695357294&s=612x612&w=0&h=NXN_QLzsuMxuRk8j2i51zMqExz3wkBm3E00RYARh65Y=",
+      "course": "Water Color",
+      "description": "Certainly Water Color Will give you the best Experience",
+      "cost": 5000
+    },
+    {
+      "img": "https://media.istockphoto.com/illustrations/aurora-borealis-over-man-holding-umbrella-lights-illustration-id487730174?k=20&m=487730174&s=612x612&w=0&h=IHaKXRBcPsO2zUqKOn5gnJlHz7TA-IAUeKVQS4PadTc=",
+      "course": "Canvas Painting",
+      "description": "Canvas is the mainstream of painting. Try to learn it by heart.",
+      "cost": 7500
+    }
+  ],
+  "services": [
+    {
+      "img": "https://images.pexels.com/photos/1070536/pexels-photo-1070536.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "course": "Abstract Painting",
+      "description": "Abstract Painting will give you brain extra nourish to the dreaming world",
+      "cost": 2500
+    },
+    {
+      "img": "https://media.istockphoto.com/photos/great-white-egrets-wading-in-pond-with-oil-painting-look-picture-id1280744303?b=1&k=20&m=1280744303&s=170667a&w=0&h=2c8vIYdhd4fmrc615pyeKH1Pn6IkDl1iLSAxqWG--RE=",
+      "course": "Oil Paint",
+      "description": "Oil Paint Can change your experience more than others !",
+      "cost": 1000
+    },
+    {
+      "img": "https://images.pexels.com/photos/1145720/pexels-photo-1145720.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "course": "Fiona Art",
+      "description":"This seems somewhat closer to abstract but is it ? !!",
+      "cost": 5000
+    },
+    {
+      "img": "https://images.pexels.com/photos/1053687/pexels-photo-1053687.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "course": "Ancient Art",
+      "description":"Centainly you have to learn some basic tools to make you better.",
+      "cost": 7500
+    },
+    {
+      "img": "https://images.pexels.com/photos/1616403/pexels-photo-1616403.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "course": "Color Making",
+      "description":"Color Making will grow the sense of variant color combination",
+      "cost": 8000
+    },
+    {
+      "img": "https://media.istockphoto.com/vectors/botanical-set-of-sketch-flowers-vector-id859821388?k=20&m=859821388&s=612x612&w=0&h=AX6sx9uhWzcfqVmfORf9C6P1zFn-1sw3JN6rIVj2G1I=",
+      "course": "Pencil Sketch",
+      "description": "Pencil sketch is the most fundamental among painting tools.",
+      "cost": 2500
+    },
+    {
+      "img": "https://media.istockphoto.com/illustrations/autumn-landscape-with-alone-tree-on-mountain-illustration-id487730182?k=20&m=487730182&s=612x612&w=0&h=dFNsr91iUxTiOYlv_-F2mXTnJ3eodcYmUd1ZLeTOzrk=",
+      "course": "Poster Color",
+      "description": "You will be Surprised how poster color can be so realistic !",
+      "cost": 1000
+    },
+    {
+      "img": "https://media.istockphoto.com/illustrations/couple-sit-and-relax-in-the-tent-at-night-forest-illustration-id695357294?k=20&m=695357294&s=612x612&w=0&h=NXN_QLzsuMxuRk8j2i51zMqExz3wkBm3E00RYARh65Y=",
+      "course": "Water Color",
+      "description": "Certainly Water Color Will give you the best Experience",
+      "cost": 5000
+    },
+    {
+      "img": "https://media.istockphoto.com/illustrations/aurora-borealis-over-man-holding-umbrella-lights-illustration-id487730174?k=20&m=487730174&s=612x612&w=0&h=IHaKXRBcPsO2zUqKOn5gnJlHz7TA-IAUeKVQS4PadTc=",
+      "course": "Canvas Painting",
+      "description": "Canvas is the mainstream of painting. Try to learn it by heart.",
+      "cost": 7500
+    }
+  ],
+  "instructors": [
+    {
+      "img": "https://media.istockphoto.com/photos/artist-draws-a-picture-holding-a-brush-and-palette-picture-id628873422?k=20&m=628873422&s=612x612&w=0&h=oqINvZnDS8L6BXuFkJk5VPiKymphiWF94pJkyspP9tc=",
+      "name": "Shah Kamal Nibir",
+      "expertise": "Water Color",
+      "paint": 151,
+      "xp": 25
+    },
+    {
+      "img": "https://media.istockphoto.com/photos/senior-man-painting-picture-id1238256861?k=20&m=1238256861&s=612x612&w=0&h=ewkDuTUAdzUk-XJF7pw0PJe3mQy6uPoU6k9lYfsnkaw=",
+      "name": "Abu Ishrak Khan",
+      "expertise": "Canvas",
+      "paint": 361,
+      "xp": 32
+    },
+    {
+      "img": "https://media.istockphoto.com/photos/senior-man-relaxing-at-home-and-painting-picture-id1292358943?k=20&m=1292358943&s=612x612&w=0&h=TuWyY0ou-yUUD4kqwHpojZVe-JGqHTRecOdKtoW9s_Q=",
+      "name": "Tilok Bin Adnan",
+      "expertise": "Sketch",
+      "paint": 78,
+      "xp": 25
+    },
+    {
+      "img": "https://media.istockphoto.com/photos/portrait-of-a-man-painting-picture-id1053257968?b=1&k=20&m=1053257968&s=170667a&w=0&h=rT7ZdFo43oYvBoCUlA0gvOscJ2V04lM-9c3o5smJ10E=",
+      "name": "Syed Rasel Bin Karim",
+      "expertise": "Pencil Sketch",
+      "paint": 278,
+      "xp": 35 
+    },
+    {
+      "img": "https://media.istockphoto.com/photos/portrait-of-male-artist-leaning-against-paint-covered-wall-picture-id498490848?k=20&m=498490848&s=612x612&w=0&h=ewNvIuOhzMCoTLss4-4l1F0rynQquQ2WoG1WEyRw7YM=",
+      "name": "Shihanur Rahman",
+      "expertise": "Water Color",
+      "paint": 76,
+      "xp": 15
+    },
+    {
+      "img": "https://media.istockphoto.com/photos/contemporary-male-artist-painting-on-easel-picture-id1240227668?b=1&k=20&m=1240227668&s=170667a&w=0&h=fqK58oCHW8eYEmbtkcNi5BRlPlJNjb0tgu8aGSmK8ZM=",
+      "name": "warish Aziz",
+      "expertise": "Color Texture",
+      "paint": 42,
+      "xp": 8
+    },
+    {
+      "img": "https://media.istockphoto.com/photos/makers-gonna-make-picture-id511524356?b=1&k=20&m=511524356&s=170667a&w=0&h=dwywWDImi9nx4tkrleiI2rQptmA9Ftx3ObaiqnEVQv0=",
+      "name": "Khandakar Ilias",
+      "expertise": "Poster Color",
+      "paint": 285,
+      "xp": 33
+    },
+    {
+      "img": "https://media.istockphoto.com/photos/selective-focus-at-face-indoor-shot-of-senior-asian-man-sit-and-of-picture-id1283032992?b=1&k=20&m=1283032992&s=170667a&w=0&h=Wf3oZajalqxoPFBSKjOl5RZAGYsqNJ9lR8Uhiz6dZx8=",
+      "name": "Shehab Uddin",
+      "expertise": "Oil Paint",
+      "paint": 137,
+      "xp": 25
+    },
+    {
+      "img": "https://media.istockphoto.com/photos/young-painter-holding-a-color-palette-and-paintbrush-in-his-art-picture-id1223889085?k=20&m=1223889085&s=612x612&w=0&h=cTUZyY9_EqyTRa9DlvsbMPp-aXmhOXU3nCeUuQuvkpc=",
+      "name": "Zihan Abedin",
+      "expertise": "Fluid Texture",
+      "paint": 35,
+      "xp": 6
+    }
+
+  ]
+}
